@@ -27,7 +27,7 @@ Upgrade instructions and detailed changes:
 
 #### Forms
     - adds `route-params` prop that replaces the functionality of the old `params`
-    - the old `params` prop is now and object and it's passed down to `vue-form`.
+    - the old `params` prop is now an object and is passed down to `vue-form`.
     - update the owner / user views (create / edit) accordingly, and the other files from your project where you are using `vue-form-ss`
 
 ### 2.7.0
